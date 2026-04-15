@@ -22,7 +22,7 @@
 I'm a **Senior Cloud Architect** who has spent 19+ years at the intersection of enterprise infrastructure, intelligent automation, and AI-native platform engineering. I don't just architect cloud platforms — I build the intelligence layer on top of them.
 
 My work spans:
-- Designing **enterprise landing zones** for global organisations (Landis+Gyr, Airtel Africa, Orange)
+- Designing **enterprise landing zones** for global organisations across utility, telecom, and enterprise sectors
 - Building **AI-powered self-healing ops platforms** using RAG, LangChain, and local LLMs
 - Leading **multi-country cloud transformations** across 14 African countries
 - Creating **automation frameworks** that eliminated manual toil at enterprise scale
@@ -174,16 +174,16 @@ My work spans:
 ## 🏢 Career Timeline
 
 ```
-2023 → Present  │  Senior Cloud Architect @ Landis+Gyr
+2023 → Present  │  Senior Cloud Architect @ Global Utility & IoT Enterprise
                 │  Hybrid cloud, AI systems, landing zones, FinOps
                 │
-2021 → 2023     │  Cloud Architect SME @ Airtel Africa
+2021 → 2023     │  Cloud Architect SME @ Pan-African Telecom Operator
                 │  14-country transformation, VDI at scale, automation
                 │
-2012 → 2019     │  Cloud Expert / Architect @ Orange Business Services
+2012 → 2019     │  Cloud Expert / Architect @ Global Managed Services Provider
                 │  Global enterprise architecture, infrastructure delivery
                 │
-2007 → 2012     │  Senior Linux Administrator @ Tech Mahindra
+2007 → 2012     │  Senior Linux Administrator @ IT Services Enterprise
                 │  Enterprise infrastructure foundations
 ```
 
@@ -197,7 +197,10 @@ My work spans:
 [![lz](https://github-readme-stats.vercel.app/api/pin/?username=gethepc&repo=azure-landing-zone-blueprint&theme=tokyonight&show_owner=true)](https://github.com/gethepc/azure-landing-zone-blueprint)
 
 [![rag](https://github-readme-stats.vercel.app/api/pin/?username=gethepc&repo=rag-observability-demo&theme=tokyonight&show_owner=true)](https://github.com/gethepc/rag-observability-demo)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gethepc&repo=prashant-chauhan-portfolio&theme=tokyonight&show_owner=true)](https://github.com/gethepc/prashant-chauhan-portfolio)
+[![afa](https://github-readme-stats.vercel.app/api/pin/?username=gethepc&repo=afa-enterprise-automation-framework&theme=tokyonight&show_owner=true)](https://github.com/gethepc/afa-enterprise-automation-framework)
+
+[![rightscale](https://github-readme-stats.vercel.app/api/pin/?username=gethepc&repo=rightscale-cloud-optimization-platform&theme=tokyonight&show_owner=true)](https://github.com/gethepc/rightscale-cloud-optimization-platform)
+[![careeros](https://github-readme-stats.vercel.app/api/pin/?username=gethepc&repo=careeros-ai-job-intelligence-platform&theme=tokyonight&show_owner=true)](https://github.com/gethepc/careeros-ai-job-intelligence-platform)
 
 </div>
 
